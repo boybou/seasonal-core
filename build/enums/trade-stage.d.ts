@@ -5,3 +5,4 @@ export declare enum TradeStage {
     Stage3 = 3,
     Stage4 = 4
 }
+//# sourceMappingURL=trade-stage.d.ts.map

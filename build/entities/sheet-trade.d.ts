@@ -7,3 +7,4 @@ export declare class SheetTrade {
     sheetId: number;
     tradeStage: TradeStage;
 }
+//# sourceMappingURL=sheet-trade.d.ts.map

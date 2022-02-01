@@ -10,3 +10,4 @@ export declare class Quote {
     quoteCollectionId: number;
     quoteCollection: QuoteCollection;
 }
+//# sourceMappingURL=quote.d.ts.map

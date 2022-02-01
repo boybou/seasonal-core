@@ -5,3 +5,4 @@ export declare class Correlation {
     period: number;
     value: number;
 }
+//# sourceMappingURL=correlation.d.ts.map

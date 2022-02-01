@@ -17,3 +17,4 @@ export declare class Year {
     quotes: Quote[];
     trade: Trade;
 }
+//# sourceMappingURL=year.d.ts.map

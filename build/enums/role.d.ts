@@ -3,3 +3,4 @@ export declare enum Role {
     SEEKER = "seeker",
     SHEET = "sheet"
 }
+//# sourceMappingURL=role.d.ts.map

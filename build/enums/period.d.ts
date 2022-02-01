@@ -3,3 +3,4 @@ export declare enum Period {
     H1 = "H1",
     D = "D"
 }
+//# sourceMappingURL=period.d.ts.map

@@ -6,3 +6,4 @@ export declare class DataSource {
     link: string;
     quoteCollections: QuoteCollection[];
 }
+//# sourceMappingURL=data-source.d.ts.map

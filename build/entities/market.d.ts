@@ -17,3 +17,4 @@ export declare class Market {
     highestDailyPercentageChangeAfter20YearsOfData: number;
     lowestDailyPercentageChangeAfter20YearsOfData: number;
 }
+//# sourceMappingURL=market.d.ts.map

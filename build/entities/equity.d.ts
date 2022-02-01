@@ -4,3 +4,4 @@ export declare class Equity {
     sheetId: number;
     value: number;
 }
+//# sourceMappingURL=equity.d.ts.map

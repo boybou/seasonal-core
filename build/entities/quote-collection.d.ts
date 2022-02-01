@@ -12,3 +12,4 @@ export declare class QuoteCollection {
     dataSource: DataSource;
     quotes: Quote[];
 }
+//# sourceMappingURL=quote-collection.d.ts.map

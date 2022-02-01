@@ -4,3 +4,4 @@ export declare enum Currency {
     USD = "USD",
     EUR = "EUR"
 }
+//# sourceMappingURL=currency.d.ts.map

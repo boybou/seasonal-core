@@ -22,3 +22,4 @@ export declare class User {
     renderHomePageSeventyPercentTradeCollectionOrderedByWinPercentage: boolean;
     renderHomePageEightyPercentTradeCollectionOrderedByWinPercentage: boolean;
 }
+//# sourceMappingURL=user.d.ts.map

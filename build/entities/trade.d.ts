@@ -38,3 +38,4 @@ export declare class Trade {
     derivedTrade: boolean;
     years: Year[];
 }
+//# sourceMappingURL=trade.d.ts.map
