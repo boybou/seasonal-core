@@ -1,18 +1,13 @@
 {
   "name": "seasonal-core",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "install": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "prettier": "^2.5.1",
     "typescript": "^4.5.5"
-  },
-  "types": "./types"
+  }
 
 }
