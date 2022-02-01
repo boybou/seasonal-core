@@ -71,6 +71,7 @@ export class Trade {
     this.years = years;
     this.avgBars = avgBars;
     this.derivedTrade = derivedTrade;
+    this.marketId = market.id;
   }
 
   id: string;
