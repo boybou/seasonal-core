@@ -1,4 +1,4 @@
-import { DataPoint } from "../objects/data-point";
+import { DataPoint } from "../classes/data-point";
 
 export function timeSeriesToSimpleMovingAverage(
   timeSeries: DataPoint[],
