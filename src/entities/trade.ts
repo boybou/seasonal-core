@@ -36,7 +36,8 @@ export class Trade {
     highestChangeClose: number,
     years: Year[],
     avgBars: number,
-    derivedTrade: boolean
+    derivedTrade: boolean,
+    targetYear: number
   ) {
     this.id = id;
     this.market = market;
@@ -72,6 +73,7 @@ export class Trade {
     this.avgBars = avgBars;
     this.derivedTrade = derivedTrade;
     this.marketId = market.id;
+    this.targetYear = targetYear;
   }
 
   id: string;
@@ -141,4 +143,5 @@ export class Trade {
   derivedTrade: boolean;
 
   years: Year[];
+  targetYear: number;
 }
